@@ -1,11 +1,11 @@
 html {
-  background-color: yellow;
+  background-color: rgb(255, 191, 65);
   font-family: monospace
 }
 
 .header {
   background-color: black;
-  color: yellow;
+  color: rgb(255, 191, 65);
   font-family: monospace;
   border-radius: 10px;
   font-style: italic;
@@ -22,4 +22,8 @@ html {
 
 #recipes {
   color: white;
+}
+
+#tamago-recipes {
+  text-align: center;
 }

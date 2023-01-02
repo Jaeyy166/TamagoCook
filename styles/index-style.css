@@ -1,11 +1,11 @@
 html {
-  background-color: yellow;
-  font-family: monospace
+  background-color: rgb(255, 191, 65);
+  font-family: monospace;
 }
 
 .header {
   background-color: black;
-  color: yellow;
+  color: rgb(255, 191, 65); 
   font-family: monospace;
   border-radius: 10px;
   font-style: italic;
@@ -23,3 +23,27 @@ html {
 #recipes {
   color: white;
 }
+
+#about-tamago {
+  text-align: center;
+}
+
+#purpose {
+  text-align: center;
+}
+p {
+  text-align: justify;
+  font-size: 13px;
+}
+
+h5 {
+  text-align: center;
+}
+
+hr {
+  height: 1px;
+  background-color: black;
+  border-style: solid;
+  border-radius: 10px;
+}
+
