@@ -1,6 +1,8 @@
 html {
   background-color: rgb(255, 191, 65);
   font-family: monospace;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 
 .header {
@@ -9,6 +11,15 @@ html {
   font-family: monospace;
   border-radius: 10px;
   font-style: italic;
+}
+
+#logo {
+  height: 150px;
+  width: 150px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
 }
 
 #tamago {
@@ -47,3 +58,7 @@ hr {
   border-radius: 10px;
 }
 
+.main {
+  margin-left: 20px;
+  margin-right: 20px
+}

@@ -11,6 +11,11 @@ html {
   font-style: italic;
 }
 
+.main {
+  margin-left: 20px;
+  margin-right: 20px
+}
+
 #tamago {
   text-align: center;
 }
@@ -22,6 +27,14 @@ html {
 
 #recipes {
   color: white;
+}
+
+#logo {
+  height: 150px;
+  width: 150px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #tamago-recipes {
