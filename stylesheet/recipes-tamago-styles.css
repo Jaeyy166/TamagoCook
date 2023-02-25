@@ -1,6 +1,8 @@
 html {
   background-color: rgb(255, 191, 65);
-  font-family: monospace
+  font-family: monospace;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 
 .header {
