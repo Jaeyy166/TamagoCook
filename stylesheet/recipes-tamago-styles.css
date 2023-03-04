@@ -1,6 +1,8 @@
 html {
   background-color: rgb(255, 191, 65);
-  font-family: monospace
+  font-family: monospace;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 
 .header {
@@ -9,6 +11,11 @@ html {
   font-family: monospace;
   border-radius: 10px;
   font-style: italic;
+}
+
+.main {
+  margin-left: 20px;
+  margin-right: 20px
 }
 
 #tamago {
@@ -22,6 +29,14 @@ html {
 
 #recipes {
   color: white;
+}
+
+#logo {
+  height: 150px;
+  width: 150px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #tamago-recipes {
