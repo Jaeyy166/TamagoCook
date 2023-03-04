@@ -60,10 +60,11 @@ hr {
 
 .main {
   margin-left: 20px;
-  margin-right: 20px
+  margin-right: 20px;
 }
 
 .div1 {
-  background-color: beige
-  
+  background-color: beige;
+  border-style: none;
+  border-radius: 10px;
 }

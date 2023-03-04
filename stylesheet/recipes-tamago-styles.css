@@ -42,3 +42,10 @@ html {
 #tamago-recipes {
   text-align: center;
 }
+
+hr {
+  height: 1px;
+  background-color: black;
+  border-style: solid;
+  border-radius: 10px;
+}
